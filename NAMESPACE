@@ -1,0 +1,4 @@
+importFrom(vars, VARselect)
+importFrom(MASS, mvrnorm)
+importFrom(matrixcalc, D.matrix)
+exportPattern("^[[:alpha:]]+")

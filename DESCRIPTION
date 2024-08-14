@@ -1,0 +1,13 @@
+Package: VarScore
+Type: Package
+Title: A score test for detecting extreme values in a vector autoregressive model
+Version: 0.1.0
+Author: Jing Wang
+Maintainer: Jing Wang <fightingbob@126.com>
+Description: This package provides tools for abnormal detection of VAR in the R programming language. It includes functions for Mean-shift perturbation model and Case-weight perturbation model. The package is designed to be easy to use and flexible, making it suitable for both novice and experienced R users.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10), vars (>= 1.5), MASS (>= 7.3), matrixcalc (>= 1.0)
+RoxygenNote: 7.2.3
