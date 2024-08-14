@@ -1,0 +1,1 @@
+[A score test for detecting extreme values in a vector autoregressive model](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2205647#d1e185)
